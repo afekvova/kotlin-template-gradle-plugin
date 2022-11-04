@@ -1,0 +1,4 @@
+name: Template
+main: me.afek.template.Template
+version: '${version}'
+author: Afek
